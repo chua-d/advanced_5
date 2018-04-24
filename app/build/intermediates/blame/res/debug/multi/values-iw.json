@@ -1,0 +1,338 @@
+[
+    {
+        "outputFile": "/Users/danceciliochua/Documents/Advanced Android/Lesson5/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 103,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "/Users/danceciliochua/.android/build-cache/68bff396ca427e17d372a852035e42450b377d77/output/res/values-iw/values-iw.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 159,
+                    "endColumn": 109,
+                    "endOffset": 264
+                },
+                "from": {
+                    "file": "/Users/danceciliochua/.android/build-cache/68bff396ca427e17d372a852035e42450b377d77/output/res/values-iw/values-iw.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 269,
+                    "endColumn": 125,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "/Users/danceciliochua/.android/build-cache/68bff396ca427e17d372a852035e42450b377d77/output/res/values-iw/values-iw.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 395,
+                    "endColumn": 98,
+                    "endOffset": 489
+                },
+                "from": {
+                    "file": "/Users/danceciliochua/.android/build-cache/68bff396ca427e17d372a852035e42450b377d77/output/res/values-iw/values-iw.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 494,
+                    "endColumn": 107,
+                    "endOffset": 597
+                },
+                "from": {
+                    "file": "/Users/danceciliochua/.android/build-cache/68bff396ca427e17d372a852035e42450b377d77/output/res/values-iw/values-iw.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 602,
+                    "endColumn": 83,
+                    "endOffset": 681
+                },
+                "from": {
+                    "file": "/Users/danceciliochua/.android/build-cache/68bff396ca427e17d372a852035e42450b377d77/output/res/values-iw/values-iw.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 686,
+                    "endColumn": 99,
+                    "endOffset": 781
+                },
+                "from": {
+                    "file": "/Users/danceciliochua/.android/build-cache/68bff396ca427e17d372a852035e42450b377d77/output/res/values-iw/values-iw.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 786,
+                    "endColumn": 113,
+                    "endOffset": 895
+                },
+                "from": {
+                    "file": "/Users/danceciliochua/.android/build-cache/68bff396ca427e17d372a852035e42450b377d77/output/res/values-iw/values-iw.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 900,
+                    "endColumn": 77,
+                    "endOffset": 973
+                },
+                "from": {
+                    "file": "/Users/danceciliochua/.android/build-cache/68bff396ca427e17d372a852035e42450b377d77/output/res/values-iw/values-iw.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 978,
+                    "endColumn": 77,
+                    "endOffset": 1051
+                },
+                "from": {
+                    "file": "/Users/danceciliochua/.android/build-cache/68bff396ca427e17d372a852035e42450b377d77/output/res/values-iw/values-iw.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1056,
+                    "endColumn": 78,
+                    "endOffset": 1130
+                },
+                "from": {
+                    "file": "/Users/danceciliochua/.android/build-cache/68bff396ca427e17d372a852035e42450b377d77/output/res/values-iw/values-iw.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1135,
+                    "endColumn": 101,
+                    "endOffset": 1232
+                },
+                "from": {
+                    "file": "/Users/danceciliochua/.android/build-cache/68bff396ca427e17d372a852035e42450b377d77/output/res/values-iw/values-iw.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1237,
+                    "endColumn": 103,
+                    "endOffset": 1336
+                },
+                "from": {
+                    "file": "/Users/danceciliochua/.android/build-cache/68bff396ca427e17d372a852035e42450b377d77/output/res/values-iw/values-iw.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1341,
+                    "endColumn": 95,
+                    "endOffset": 1432
+                },
+                "from": {
+                    "file": "/Users/danceciliochua/.android/build-cache/68bff396ca427e17d372a852035e42450b377d77/output/res/values-iw/values-iw.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1437,
+                    "endColumn": 102,
+                    "endOffset": 1535
+                },
+                "from": {
+                    "file": "/Users/danceciliochua/.android/build-cache/68bff396ca427e17d372a852035e42450b377d77/output/res/values-iw/values-iw.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1540,
+                    "endColumn": 100,
+                    "endOffset": 1636
+                },
+                "from": {
+                    "file": "/Users/danceciliochua/.android/build-cache/68bff396ca427e17d372a852035e42450b377d77/output/res/values-iw/values-iw.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1641,
+                    "endColumn": 99,
+                    "endOffset": 1736
+                },
+                "from": {
+                    "file": "/Users/danceciliochua/.android/build-cache/68bff396ca427e17d372a852035e42450b377d77/output/res/values-iw/values-iw.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1741,
+                    "endColumn": 115,
+                    "endOffset": 1852
+                },
+                "from": {
+                    "file": "/Users/danceciliochua/.android/build-cache/68bff396ca427e17d372a852035e42450b377d77/output/res/values-iw/values-iw.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1857,
+                    "endColumn": 95,
+                    "endOffset": 1948
+                },
+                "from": {
+                    "file": "/Users/danceciliochua/.android/build-cache/68bff396ca427e17d372a852035e42450b377d77/output/res/values-iw/values-iw.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1953,
+                    "endColumn": 46,
+                    "endOffset": 1995
+                },
+                "from": {
+                    "file": "/Users/danceciliochua/Documents/Advanced Android/Lesson5/app/src/main/res/values-iw/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2000,
+                    "endColumn": 47,
+                    "endOffset": 2043
+                },
+                "from": {
+                    "file": "/Users/danceciliochua/Documents/Advanced Android/Lesson5/app/src/main/res/values-iw/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 529,
+                        "endColumn": 47,
+                        "endOffset": 572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2048,
+                    "endColumn": 47,
+                    "endOffset": 2091
+                },
+                "from": {
+                    "file": "/Users/danceciliochua/Documents/Advanced Android/Lesson5/app/src/main/res/values-iw/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2096,
+                    "endColumn": 245,
+                    "endOffset": 2337
+                },
+                "from": {
+                    "file": "/Users/danceciliochua/Documents/Advanced Android/Lesson5/app/src/main/res/values-iw/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2342,
+                    "endColumn": 83,
+                    "endOffset": 2421
+                },
+                "from": {
+                    "file": "/Users/danceciliochua/Documents/Advanced Android/Lesson5/app/src/main/res/values-iw/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2426,
+                    "endColumn": 48,
+                    "endOffset": 2470
+                },
+                "from": {
+                    "file": "/Users/danceciliochua/Documents/Advanced Android/Lesson5/app/src/main/res/values-iw/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2475,
+                    "endColumn": 78,
+                    "endOffset": 2549
+                },
+                "from": {
+                    "file": "/Users/danceciliochua/.android/build-cache/68bff396ca427e17d372a852035e42450b377d77/output/res/values-iw/values-iw.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2554,
+                    "endColumn": 102,
+                    "endOffset": 2652
+                },
+                "from": {
+                    "file": "/Users/danceciliochua/.android/build-cache/68bff396ca427e17d372a852035e42450b377d77/output/res/values-iw/values-iw.xml"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/danceciliochua/.android/build-cache/4465395d8f206214bbe79cde8608e90edd3d04e5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/danceciliochua/Documents/Advanced Android/Lesson5/app/build/intermediates/pre-dexed/debug/classes_2db51872b1750c918cabb45256f344cdcc6333f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/danceciliochua/.android/build-cache/0ab7be0393067e4256fca358f40efb6bc73c330b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/danceciliochua/Documents/Advanced Android/Lesson5/app/build/intermediates/pre-dexed/debug/classes_96a144b12b24e61685d1610e7d22ba10586f95db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/danceciliochua/.android/build-cache/805a2530bef624b1c95f07d1e909e4054f8333cf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/danceciliochua/Documents/Advanced Android/Lesson5/app/build/intermediates/pre-dexed/debug/classes_b79f2334ffb6cf9d3dde51667a28cd25ca49c84e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/danceciliochua/.android/build-cache/337c009d4a21a809111d82685587c21d6b88328b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/danceciliochua/Documents/Advanced Android/Lesson5/app/build/intermediates/pre-dexed/debug/classes_0d83d008765fb934cc94f97db9aeab61deea834b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/danceciliochua/.android/build-cache/68bff396ca427e17d372a852035e42450b377d77/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/danceciliochua/Documents/Advanced Android/Lesson5/app/build/intermediates/pre-dexed/debug/classes_1a72a2f7bc91c3578e611b2129517df6aef1b601.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/danceciliochua/.android/build-cache/e8f0d238c69457b5055c4e329fb736d506c59638/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/danceciliochua/Documents/Advanced Android/Lesson5/app/build/intermediates/pre-dexed/debug/classes_79a50591bbde05adacd7246af2ab43f462873032.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/danceciliochua/.android/build-cache/f13173fff6d319929ac35f9af85ea8ed354b843e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/danceciliochua/Documents/Advanced Android/Lesson5/app/build/intermediates/pre-dexed/debug/classes_8d79da57830174a1b47e5b75d081b25442a5fc0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/danceciliochua/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/danceciliochua/Documents/Advanced Android/Lesson5/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_64f93d6ee997a196c8a7d2622a510d4a27a308a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/danceciliochua/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/danceciliochua/Documents/Advanced Android/Lesson5/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_394d15bfec143e48be6aee9074bcb0fbefbf9e09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/danceciliochua/.android/build-cache/90b80bf3bfa149ef9c136bf190b639ebd0b4a5f3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/danceciliochua/Documents/Advanced Android/Lesson5/app/build/intermediates/pre-dexed/debug/classes_39dbbbb000c880ee2733d146f972f1bc16cda2a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/danceciliochua/.android/build-cache/70cf456e57ff3b0e8d49e82de01c64274acd313b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/danceciliochua/Documents/Advanced Android/Lesson5/app/build/intermediates/pre-dexed/debug/classes_15b99d1cbabc145de27e085b3fecbf345653fd48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/danceciliochua/.android/build-cache/c0ccc3ff424f41921d836f980afec2763910c6da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/danceciliochua/Documents/Advanced Android/Lesson5/app/build/intermediates/pre-dexed/debug/classes_9589b6c12cb4c1359184e4d8bd4ade5a5102b24c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/danceciliochua/.android/build-cache/5a91ec75594b4c722f91dd6c496725026f129d8e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/danceciliochua/Documents/Advanced Android/Lesson5/app/build/intermediates/pre-dexed/debug/classes_6b410370619e0174b156f9e2a24b1cf287d9ab81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/danceciliochua/.android/build-cache/4b749626961973a7afa02934017fead56969b368/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/danceciliochua/Documents/Advanced Android/Lesson5/app/build/intermediates/pre-dexed/debug/classes_d9b0721e3699f0453e80d03cf0b407112a95ca0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/danceciliochua/.android/build-cache/2d0f5ce9f282b51cfcb553df67df865ab54f5b78/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/danceciliochua/Documents/Advanced Android/Lesson5/app/build/intermediates/pre-dexed/debug/classes_1808faf8b4d0304e0f9641c0010f532ac952305a.jar" />
+    </item>
+
+</items>
